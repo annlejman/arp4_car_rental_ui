@@ -1,0 +1,13 @@
+:root{
+  --background:#E7E5DF;
+  --header:#393E48;
+  --footer:#DB7093FF;
+  --body:#D3D0CB;
+}
+html{background-color:var(--background);
+}
+
+.App {
+  text-align: center;
+}
+

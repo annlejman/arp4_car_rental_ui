@@ -1,0 +1,62 @@
+.AppBody {
+    background-color: var(--body);
+    width: 80vw;
+    min-height: calc(100vh - 48px - 4px - 28px);
+    margin: auto;
+    margin-top: 4px;
+    padding: 4px;
+}
+
+.BodyContainer {
+    background-color: white;
+}
+
+.ContainerHeader {
+    display: flex;
+    margin: 4px 4px;
+    border-bottom: 1px solid darkgray;
+
+}
+
+.ContainerBody {
+    margin: 4px;
+
+}
+
+.TableHeader {
+    font-weight: bolder;
+}
+
+.TableHeader div {
+    border: 1px solid darkgray;
+}
+
+.TableRow {
+
+}
+
+.TableRow div {
+    border: 1px solid darkgray;
+    padding: 4px 0 4px 0;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.TableRow div button {
+    width: 90%;
+
+}
+
+.BodyContainer{
+    background-color: white;
+}
+.ContainerHeader{
+    display: flex;
+    border-bottom: 1px solid darkgray;
+}
+
+.ContainerBody{
+    margin: 4px;
+}

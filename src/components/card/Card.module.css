@@ -1,0 +1,10 @@
+.CardContainer{
+    background-color: white;
+}
+.CardHeader{
+    display: flex;
+    border-bottom: 1px solid darkgray;
+}
+.CardBody{
+    margin: 4px;
+}

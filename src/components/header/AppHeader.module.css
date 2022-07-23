@@ -1,0 +1,31 @@
+.AppHeader{
+background-color: var(--header);
+height: 48px;
+    width:80vw;
+    margin: auto;
+    display:flex;
+
+}
+.HeaderLeft{
+color: white;
+   height:100%;
+    margin-left: 8px;
+
+}
+.HeaderLeft p{
+    margin:calc(48px / 2 - 24px / 2) 0 0 0;
+}
+.HeaderRight{
+background-color: white;
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+}
+.HeaderRight div{
+    color:white;
+    background-color: var(--header);
+    height:65%;
+    margin:0 4px;
+    min-width:  64px;
+
+}
